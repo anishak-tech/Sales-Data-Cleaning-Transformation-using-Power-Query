@@ -403,4 +403,4 @@ Cleaned Dataset
 
 This project showcases a complete end-to-end data cleaning and transformation process using Power Query. By applying multiple transformation techniques, the raw sales dataset was converted into a clean, consistent, and business-ready dataset suitable for reporting, dashboard creation, and advanced analytics.
 
-The project demonstrates practical ETL skills that are essential for Data Analyst and Business Intelligence roles.
+
